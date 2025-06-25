@@ -56,4 +56,7 @@ python trafficAnalyzer.py --video simple.mp4 --output traffic_stats.csv
    git clone https://github.com/Aniket-Paul1/Real_Time_Vehicle_Detection.git
    cd Real_Time_Vehicle_Detection
    ```
-   
+2. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
