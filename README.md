@@ -44,8 +44,9 @@ Perfect for traffic monitoring, smart city applications, and ITS enthusiasts.
 
 See it in action:
 
-<code>bash
-python trafficAnalyzer.py --video simple.mp4 --output traffic_stats.csv</code>
+```bash
+python trafficAnalyzer.py --video simple.mp4 --output traffic_stats.csv
+```
 ---
 
 ## Installation
@@ -54,3 +55,5 @@ python trafficAnalyzer.py --video simple.mp4 --output traffic_stats.csv</code>
    ```bash
    git clone https://github.com/Aniket-Paul1/Real_Time_Vehicle_Detection.git
    cd Real_Time_Vehicle_Detection
+   ```
+   
